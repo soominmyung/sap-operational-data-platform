@@ -1,4 +1,4 @@
-# SAP Business One – Operational SQL Examples (Anonymised)
+# SAP Business One – Operational SQL Examples
 
 This repository contains **anonymised SQL examples** for SAP Business One environments.  
 They are shared for **educational and practical reference**, especially for practitioners working with SAP B1 on SQL Server.
@@ -45,7 +45,7 @@ They are intended to be adapted to your own SAP B1 schema and business rules.
 
 ---
 
-## Query Catalogue (Anonymised)
+## Query Catalogue
 
 | File | Purpose |
 |------|---------|
